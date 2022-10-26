@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **projects in my OOP class!**
 
-- 💬 Ask me about **My virtual business card hobby!**
+- 💬 Ask me about **My virtual business card hobby! Click the Hello World Banner to View Mine!**
 
 - 📫 How to reach me **ericmarkovica@gmail.com**
 
