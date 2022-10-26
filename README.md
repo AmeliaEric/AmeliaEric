@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AmeliaEric/AmeliaEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/header_image/header.jpg)]
+[![MasterHead](https://alpha-centauri-production.s3.amazonaws.com/uploads/content/174/header_image/header.jpg)](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)
 <h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
 <h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/230/221/non_2x/business-girl-developer-character-illustration-vector.jpg">
