@@ -22,7 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameliaeric" alt="ameliaeric" /></a> </p>
 
+- 🔭 I’m currently working on **Completing my third semester**
+
 - 🌱 I’m currently learning **JAVA, Selenium, and Bootstrap as new parts of this semester**
+
+- 👯 I’m looking to collaborate on **projects in my OOP class!**
 
 - 💬 Ask me about **My virtual business card hobby!**
 
