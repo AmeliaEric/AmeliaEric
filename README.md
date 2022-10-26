@@ -20,15 +20,17 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
 
-- 🔭 I’m currently working on **Completing my third semester**
+- 🔭 I’m currently working on **completing my third semester**
 
 - 🌱 I’m currently learning **JAVA, Selenium, and Bootstrap as new parts of this semester**
 
 - 👯 I’m looking to collaborate on **projects in my OOP class!**
 
-- 💬 Ask me about **My virtual business card hobby! Click the Hello World Banner to View Mine!**
+- 💬 Ask me about **my virtual business card hobby! Click the Hello World Banner to View Mine!**
 
 - 📫 How to reach me **ericmarkovica@gmail.com**
+
+- 🤝 View my digital business card at **https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85**
 
 - ⚡ Fun fact **I've been programming for 6 years!**
 
