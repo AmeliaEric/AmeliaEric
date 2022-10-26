@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
 <h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/000/230/221/non_2x/business-girl-developer-character-illustration-vector.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
 
