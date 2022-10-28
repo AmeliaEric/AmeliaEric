@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Amelia Eric-Markovic](https://user-images.githubusercontent.com/104782574/198740107-854b989e-2fbc-4906-8db3-12ad0b62eb85.png)](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)
 <h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
 <h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
-<img align="right" alt="Coding" width="400" src="![Circle Logo](https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png)">
+<img align="right" alt="Coding" width="400" [![Circle Logo](https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png)]>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
 
