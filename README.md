@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
 <h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png" >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameliaeric" alt="ameliaeric" /></a> </p>
+<p align="left" width="200"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameliaeric" alt="ameliaeric" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
 
