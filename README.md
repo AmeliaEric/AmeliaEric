@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Amelia Eric-Markovic](https://user-images.githubusercontent.com/104782574/198740107-854b989e-2fbc-4906-8db3-12ad0b62eb85.png)](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)
 <h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
 <h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png" >
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameliaeric" alt="ameliaeric" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ericmarkovica@gmail.com**
 
-- 👨‍💻 All of my projects are available at [ameliaeric.github.io](ameliaeric.github.io)
+- 👨‍💻 All of my projects are available at [https://ameliaeric.github.io/](https://ameliaeric.github.io/)
 
 - 🤝 View my digital business card at **https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85**
 
