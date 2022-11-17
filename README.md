@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ericmarkovica@gmail.com**
 
-- 👨‍💻 All of my projects are available at [ameliaeric.github.io](https://ameliaeric.github.io/)
+- 👨‍💻 All of my projects are available at **[ameliaeric.github.io]**(https://ameliaeric.github.io/)
 
 - 🤝 View my digital business card at **https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85**
 
-- 📄 Know about my experiences [Link](https://docs.google.com/document/d/19ShnwpzFJVnNXfVEdStqNY5e1RN268OO/edit?usp=sharing&ouid=105388439397639820307&rtpof=true&sd=true)
+- 📄 Know about my experiences **[from my Resume]**(https://docs.google.com/document/d/19ShnwpzFJVnNXfVEdStqNY5e1RN268OO/edit?usp=sharing&ouid=105388439397639820307&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I've been programming for 5 years!**
 
