@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ericmarkovica@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[ameliaeric.github.io](https://ameliaeric.github.io/)**
+- 👨‍💻 My Portfolio Website is available at **[ameliaeric.github.io](https://ameliaeric.github.io/)**
 
 - 🤝 View my digital business card at **[HiHello!](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)**
 
