@@ -14,13 +14,13 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Software Developer** and **Computer Science student** at UOIT, with an Advanced Diploma in Computer Programming & Analysis from Durham College — where I graduated with a **5.0 GPA** and a **Leader of the Future Award**.
+I'm a **Software Developer** and **Computer Science student** at Ontario Tech University, with an Advanced Diploma in Computer Programming & Analysis from Durham College, where I graduated with a **5.0 GPA** and a **Leader of the Future Award**.
 
-I'm currently working as a **Software Developer (CO-OP)** at EHCOnomics Inc., where I've built and launched a full company website, improved lead generation flows, and helped drive operational efficiency through thoughtful tech solutions.
+I'm currently working as a **Software Developer (CO-OP)** at EHCOnomics Inc., where I built and launched a full company website, improved lead generation flows, and helped drive operational efficiency through thoughtful tech solutions.
 
-I build things across the full stack — from native iOS apps to data science notebooks — and I care about writing clean, well-documented code that other people can actually read and use.
+I build things across the full stack, from native iOS apps to data science notebooks, and I enjoy building software that is practical, polished, and maintainable with a strong focus on clean architecture, thoughtful UI/UX, and clear technical communication.
 
-- 🎓 B.S. Computer Science @ **UOIT** (2024–2027) · 3.43 GPA
+- 🎓 B.S. Computer Science @ **Ontario Tech University** (2024–2027) · 3.43 GPA
 - 💼 Software Developer (CO-OP) @ **EHCOnomics Inc.**
 - 📍 Durham Region, Ontario
 - 🎵 Into music, poetry, travel, gaming, and smart tech
@@ -109,9 +109,9 @@ A complete data science project analysing trends across the IMDB Top 1000 films 
 
 <div align="center">
 
-![Amelia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeliaEric&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmeliaEric&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeliaEric&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmeliaEric&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
