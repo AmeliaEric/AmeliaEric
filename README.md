@@ -1,52 +1,134 @@
+<div align="center">
 
-<!--
-**AmeliaEric/AmeliaEric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=ff3400&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amelia+%F0%9F%91%8B;Software+Developer+%26+CS+Student;Builder+of+iOS+Apps+%26+Data+Stories;Always+learning%2C+Always+pushing" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Amelia Eric-Markovic](https://user-images.githubusercontent.com/104782574/198740107-854b989e-2fbc-4906-8db3-12ad0b62eb85.png)](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)
-<h1 align="center">Hi 👋, I'm Amelia Eric-Markovic</h1>
-<h3 align="center">A Full Time Student for Computer Programming and Analysis Advanced Diploma at Durham College</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104782574/198740270-bb282341-3ca9-4fe9-a685-dfaf84b6584b.png" >
+[![Portfolio](https://img.shields.io/badge/Portfolio-ameliaeric.github.io-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ameliaeric.github.io/)
+[![Email](https://img.shields.io/badge/Email-ericmarkovica@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmarkovica@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AmeliaEric-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeliaEric)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameliaeric&label=Profile%20views&color=0e75b6&style=flat" alt="ameliaeric" /> </p>
+</div>
 
-- 🔭 I’m currently working on **completing my fourth semester and finding a co-op**
+---
 
-- 🌱 I’m currently learning **Cobol and Javascript as new parts of this semester**
+## 👩‍💻 About Me
 
-- 👯 I’m looking to collaborate on **projects in my OOP class!**
+I'm a **Software Developer** and **Computer Science student** at UOIT, with an Advanced Diploma in Computer Programming & Analysis from Durham College — where I graduated with a **5.0 GPA** and a **Leader of the Future Award**.
 
-- 💬 Ask me about **my virtual business card hobby! Click the Banner above to View Mine!**
+I'm currently working as a **Software Developer (CO-OP)** at EHCOnomics Inc., where I've built and launched a full company website, improved lead generation flows, and helped drive operational efficiency through thoughtful tech solutions.
 
-- 📫 How to reach me **ericmarkovica@gmail.com**
+I build things across the full stack — from native iOS apps to data science notebooks — and I care about writing clean, well-documented code that other people can actually read and use.
 
-- 👨‍💻 My Portfolio Website is available at **[ameliaeric.github.io](https://ameliaeric.github.io/)**
+- 🎓 B.S. Computer Science @ **UOIT** (2024–2027) · 3.43 GPA
+- 💼 Software Developer (CO-OP) @ **EHCOnomics Inc.**
+- 📍 Durham Region, Ontario
+- 🎵 Into music, poetry, travel, gaming, and smart tech
 
-- 🤝 View my digital business card at **[HiHello!](https://hihello.me/p/7d6203f7-5d3f-403c-85d9-6666b1d62f85)**
+---
 
-- 📄 Know about my experiences **[from my Resume](https://docs.google.com/document/d/19ShnwpzFJVnNXfVEdStqNY5e1RN268OO/edit?usp=sharing&ouid=105388439397639820307&rtpof=true&sd=true)**
+## 🛠 Tech Stack
 
-- ⚡ Fun fact **I've been programming for 5 years!**
+**Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amelia eric-markovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amelia eric-markovic" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameliaeric&show_icons=true&locale=en&layout=compact" alt="ameliaeric" /></p>
+**Frontend**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameliaeric&show_icons=true&locale=en" alt="ameliaeric" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameliaeric&" alt="ameliaeric" /></p>
+**Frameworks & Libraries**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 [Homie](https://github.com/AmeliaEric/Homie) — iOS Roommate & Household Management App
+
+A full-stack native iOS app that helps roommates coordinate tasks and manage their shared home in real time.
+
+- **Swift / SwiftUI** frontend built in Xcode
+- **Firebase Realtime Database** for instant cross-device sync
+- **Firebase Authentication** for secure user accounts
+- **Ruby** backend for server-side logic
+- Features: shared task management, household groups, user profiles, real-time updates
+
+[![Readme](https://img.shields.io/badge/View_README-6E40C9?style=flat-square)](https://github.com/AmeliaEric/Homie)
+[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/uvxYLSialgE)
+
+---
+
+### 🎬 [IMDB Database Analysis](https://github.com/AmeliaEric/IMDB-Database-Analysis) — Exploratory Data Analysis Project
+
+A complete data science project analysing trends across the IMDB Top 1000 films — genres, directors, ratings, runtime, and box office performance.
+
+- **Python** (Pandas, Matplotlib, Seaborn) in a Jupyter Notebook
+- Explored correlations between ratings, runtime, and revenue
+- Identified blockbuster patterns across genres and directors
+- Full analysis report available as a PDF in the `docs/` folder
+
+[![Readme](https://img.shields.io/badge/View_README-3776AB?style=flat-square)](https://github.com/AmeliaEric/IMDB-Database-Analysis)
+[![Notebook](https://img.shields.io/badge/Open_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/AmeliaEric/IMDB-Database-Analysis/blob/main/IMDB.ipynb)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Amelia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmeliaEric&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmeliaEric&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting projects, chatting about tech, or exploring new opportunities.
+
+- 🌐 **Portfolio:** [ameliaeric.github.io](https://ameliaeric.github.io/)
+- 📧 **Email:** [ericmarkovica@gmail.com](mailto:ericmarkovica@gmail.com)
+- 📍 **Location:** Oshawa, Ontario
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repos and star anything you find useful! ⭐*
+
+</div>
