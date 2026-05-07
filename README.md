@@ -121,9 +121,9 @@ A complete data science project analysing trends across the IMDB Top 1000 films 
 
 I'm always open to collaborating on interesting projects, chatting about tech, or exploring new opportunities.
 
-- 🌐 **Portfolio:** [ameliaeric.github.io](https://ameliaeric.github.io/)
-- 📧 **Email:** [ericmarkovica@gmail.com](mailto:ericmarkovica@gmail.com)
-- 📍 **Location:** Oshawa, Ontario
+- **Portfolio:** [ameliaeric.github.io](https://ameliaeric.github.io/)
+- **Email:** [ericmarkovica@gmail.com](mailto:ericmarkovica@gmail.com)
+- **Location:** Oshawa, Ontario
 
 ---
 
